@@ -1,5 +1,5 @@
 
-# Google Calendar Service
+# Google Calendar Attendees Service
 
 ## Description
 This service is designed to interact with Google Calendar API and Microsoft SQL Server to manage calendar events. It fetches data from the SQL Server database, interacts with Google Calendar to perform desired operations, and logs errors when they occur.
