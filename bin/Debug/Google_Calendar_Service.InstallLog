@@ -1,0 +1,30 @@
+﻿Installing assembly 'C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.InstallLog
+   assemblypath = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe assembly.
+Committing assembly 'C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.InstallLog
+   assemblypath = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.InstallLog
+   assemblypath = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe assembly.
+Committing assembly 'C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.InstallLog
+   assemblypath = C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\olsiP\Downloads\Google_Calendar_Service\bin\Debug\Google_Calendar_Service.exe assembly.
+Remove InstallState file because there are no installers.

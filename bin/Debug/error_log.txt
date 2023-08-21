@@ -1,0 +1,35 @@
+Error occurred at 2023-08-07 11:23:46: Could not find any resources appropriate for the specified culture or the neutral culture. Make sure "ClientSecret.resources" was correctly embedded or linked into assembly "Google_Calendar_Service" at compile time, or that all the satellite assemblies required are loadable and fully signed.
+
+Error occurred at 2023-08-11 13:57:32: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Lessons_LessonTypes". The conflict occurred in database "matereuven", table "dbo.LessonTypes", column 'ID'.
+The statement has been terminated.
+
+Error occurred at 2023-08-12 09:41:18: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_StudentLessons_Users". The conflict occurred in database "matereuven", table "dbo.Users", column 'ID'.
+The statement has been terminated.
+
+Error occurred at 2023-08-12 15:15:23: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_StudentLessons_Users". The conflict occurred in database "matereuven", table "dbo.Users", column 'ID'.
+The statement has been terminated.
+
+Error occurred at 2023-08-13 16:26:04: Error:"invalid_grant", Description:"Token has been expired or revoked.", Uri:""
+
+Error occurred at 2023-08-14 12:13:45: Invalid attempt to read when no data is present.
+
+Error occurred at 2023-08-14 14:29:17: String was not recognized as a valid DateTime.
+
+Error occurred at 2023-08-14 15:02:33: String was not recognized as a valid DateTime.
+
+Error occurred at 2023-08-15 09:52:12: String was not recognized as a valid DateTime.
+
+Error occurred at 2023-08-15 10:46:51: Invalid attempt to read when no data is present.
+
+Error occurred at 2023-08-15 11:05:26: Invalid attempt to read when no data is present.
+
+Error occurred at 2023-08-15 11:40:21: The DELETE statement conflicted with the REFERENCE constraint "FK_StudentLessons_Lessons". The conflict occurred in database "matereuven", table "dbo.StudentLessons", column 'Lessons'.
+The statement has been terminated.
+
+Error occurred at 2023-08-16 09:53:45: The DELETE statement conflicted with the REFERENCE constraint "FK_StudentLessons_Lessons". The conflict occurred in database "matereuven", table "dbo.StudentLessons", column 'Lessons'.
+The statement has been terminated.
+
+Error occurred at 2023-08-16 12:17:08: The DELETE statement conflicted with the REFERENCE constraint "FK_StudentLessons_Lessons". The conflict occurred in database "matereuven", table "dbo.StudentLessons", column 'Lessons'.
+The statement has been terminated.
+
+Error occurred at 2023-08-17 13:50:32: The connection was not closed. The connection's current state is open.
