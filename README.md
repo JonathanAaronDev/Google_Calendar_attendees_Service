@@ -25,7 +25,7 @@ The service uses a connection string to connect to the SQL Server database. You 
 Any errors encountered during the execution are logged to `error_log.txt` with a timestamp.
 
 ### Running the Service
-Run the service, and it will start fetching data from the SQL Server database and interact with Google Calendar based on the logic you've implemented. Press any key to exit the service.
+Run the service, and it will start fetching data from the SQL Server database and interact with Google Calendar based on the logic implemented. Press any key to exit the service.
 
 ## Future Improvements
 
