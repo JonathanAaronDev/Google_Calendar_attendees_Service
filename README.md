@@ -6,10 +6,11 @@ This service is designed to interact with Google Calendar API and Microsoft SQL 
 
 ## Features
 
-1. **Asynchronous Operations**: The application uses asynchronous programming (async/await) to avoid blocking the main thread, ensuring smooth operations.
-2. **Error Handling**: Comprehensive error handling with error logging capabilities.
-3. **Timer Based Execution**: The application utilizes a timer to execute specific functions at regular intervals.
-4. **Semaphore Synchronization**: The application uses `SemaphoreSlim` for synchronization to ensure that only one operation is being performed at a given time.
+1. **Modular Architecture**: Separate classes encapsulate Google API calls, SQL operations, and synchronization logic for improved maintainability.
+2. **Asynchronous Operations**: The application uses asynchronous programming (async/await) to avoid blocking the main thread, ensuring smooth operations.
+3. **Error Handling**: Comprehensive error handling with error logging capabilities.
+4. **Timer Based Execution**: The application utilizes a timer to execute specific functions at regular intervals.
+5. **Semaphore Synchronization**: The application uses `SemaphoreSlim` for synchronization to ensure that only one operation is being performed at a given time.
 
 ## Dependencies
 
