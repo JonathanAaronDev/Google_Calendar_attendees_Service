@@ -112,6 +112,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
+    <Compile Include="CalendarSyncService.cs" />
+    <Compile Include="IGoogleCalendarClient.cs" />
+    <Compile Include="GoogleCalendarClient.cs" />
+    <Compile Include="ICalendarRepository.cs" />
+    <Compile Include="SqlCalendarRepository.cs" />
+    <Compile Include="IErrorNotifier.cs" />
+    <Compile Include="ConsoleErrorNotifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
